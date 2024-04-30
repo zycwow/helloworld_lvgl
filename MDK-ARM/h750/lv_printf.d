@@ -1,0 +1,10 @@
+h750\lv_printf.o: ..\lvgl\src\misc\lv_printf.c
+h750\lv_printf.o: ..\lvgl\src\misc\lv_printf.h
+h750\lv_printf.o: ..\lvgl\src\misc\../lv_conf_internal.h
+h750\lv_printf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+h750\lv_printf.o: ..\lvgl\src\misc\../lv_conf_kconfig.h
+h750\lv_printf.o: ../lvgl/examples/porting/../../lv_conf.h
+h750\lv_printf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+h750\lv_printf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+h750\lv_printf.o: ..\lvgl\src\misc\lv_types.h
+h750\lv_printf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h

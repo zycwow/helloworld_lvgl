@@ -1,0 +1,14 @@
+h750\lv_color.o: ..\lvgl\src\misc\lv_color.c
+h750\lv_color.o: ..\lvgl\src\misc\lv_color.h
+h750\lv_color.o: ..\lvgl\src\misc\../lv_conf_internal.h
+h750\lv_color.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+h750\lv_color.o: ..\lvgl\src\misc\../lv_conf_kconfig.h
+h750\lv_color.o: ../lvgl/examples/porting/../../lv_conf.h
+h750\lv_color.o: ..\lvgl\src\misc\lv_assert.h
+h750\lv_color.o: ..\lvgl\src\misc\lv_log.h
+h750\lv_color.o: ..\lvgl\src\misc\lv_types.h
+h750\lv_color.o: ..\lvgl\src\misc\lv_mem.h
+h750\lv_color.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+h750\lv_color.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+h750\lv_color.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+h750\lv_color.o: ..\lvgl\src\misc\lv_math.h

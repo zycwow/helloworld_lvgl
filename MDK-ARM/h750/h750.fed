@@ -1,0 +1,1307 @@
+;#<FEEDBACK># ARM Linker, 5060960: Last Updated: Wed Nov 22 22:26:46 2023
+;VERSION 0.2
+;FILE dma.o
+__asm___5_dma_c_c03d6034____REV16 <= USED 0
+__asm___5_dma_c_c03d6034____REVSH <= USED 0
+__asm___5_dma_c_c03d6034____RRX <= USED 0
+;FILE dma2d.o
+HAL_DMA2D_MspDeInit <= USED 0
+__asm___7_dma2d_c_2f2b03f3____REV16 <= USED 0
+__asm___7_dma2d_c_2f2b03f3____REVSH <= USED 0
+__asm___7_dma2d_c_2f2b03f3____RRX <= USED 0
+;FILE gc9a01.o
+LCD_WR_DATA8 <= USED 0
+__asm___8_GC9A01_c_4725a2a2____REV16 <= USED 0
+__asm___8_GC9A01_c_4725a2a2____REVSH <= USED 0
+__asm___8_GC9A01_c_4725a2a2____RRX <= USED 0
+;FILE gpio.o
+__asm___6_gpio_c_62724882____REV16 <= USED 0
+__asm___6_gpio_c_62724882____REVSH <= USED 0
+__asm___6_gpio_c_62724882____RRX <= USED 0
+;FILE lv_anim.o
+lv_anim_count_running <= USED 0
+lv_anim_del_all <= USED 0
+lv_anim_path_bounce <= USED 0
+lv_anim_path_ease_in <= USED 0
+lv_anim_path_overshoot <= USED 0
+lv_anim_refr_now <= USED 0
+;FILE lv_anim_timeline.o
+lv_anim_timeline_del <= USED 0
+lv_anim_timeline_get_reverse <= USED 0
+lv_anim_timeline_set_progress <= USED 0
+lv_anim_timeline_set_reverse <= USED 0
+lv_anim_timeline_stop <= USED 0
+;FILE lv_animimg.o
+lv_animimg_create <= USED 0
+lv_animimg_set_duration <= USED 0
+lv_animimg_set_repeat_count <= USED 0
+lv_animimg_set_src <= USED 0
+lv_animimg_start <= USED 0
+;FILE lv_arc.o
+lv_arc_create <= USED 0
+lv_arc_get_angle_end <= USED 0
+lv_arc_get_angle_start <= USED 0
+lv_arc_get_bg_angle_end <= USED 0
+lv_arc_get_bg_angle_start <= USED 0
+lv_arc_get_max_value <= USED 0
+lv_arc_get_min_value <= USED 0
+lv_arc_get_mode <= USED 0
+lv_arc_get_value <= USED 0
+lv_arc_set_change_rate <= USED 0
+lv_arc_set_mode <= USED 0
+lv_arc_set_range <= USED 0
+;FILE lv_area.o
+_lv_area_is_equal <= USED 0
+_lv_area_set_pos <= USED 0
+lv_area_align <= USED 0
+;FILE lv_async.o
+lv_async_call <= USED 0
+;FILE lv_bar.o
+lv_bar_get_max_value <= USED 0
+lv_bar_get_min_value <= USED 0
+lv_bar_set_mode <= USED 0
+lv_bar_set_range <= USED 0
+;FILE lv_btn.o
+;FILE lv_btnmatrix.o
+lv_btnmatrix_get_map <= USED 0
+lv_btnmatrix_get_one_checked <= USED 0
+lv_btnmatrix_set_btn_width <= USED 0
+;FILE lv_calendar.o
+lv_calendar_create <= USED 0
+lv_calendar_get_btnmatrix <= USED 0
+lv_calendar_get_highlighted_dates <= USED 0
+lv_calendar_get_highlighted_dates_num <= USED 0
+lv_calendar_get_pressed_date <= USED 0
+lv_calendar_get_today_date <= USED 0
+lv_calendar_set_day_names <= USED 0
+lv_calendar_set_highlighted_dates <= USED 0
+;FILE lv_calendar_header_arrow.o
+lv_calendar_header_arrow_create <= USED 0
+;FILE lv_calendar_header_dropdown.o
+lv_calendar_header_dropdown_create <= USED 0
+;FILE lv_canvas.o
+lv_canvas_blur_hor <= USED 0
+lv_canvas_blur_ver <= USED 0
+lv_canvas_copy_buf <= USED 0
+lv_canvas_create <= USED 0
+lv_canvas_draw_arc <= USED 0
+lv_canvas_draw_img <= USED 0
+lv_canvas_draw_line <= USED 0
+lv_canvas_draw_polygon <= USED 0
+lv_canvas_draw_rect <= USED 0
+lv_canvas_draw_text <= USED 0
+lv_canvas_fill_bg <= USED 0
+lv_canvas_get_img <= USED 0
+lv_canvas_get_px <= USED 0
+lv_canvas_set_buffer <= USED 0
+lv_canvas_set_palette <= USED 0
+lv_canvas_set_px_color <= USED 0
+lv_canvas_set_px_opa <= USED 0
+lv_canvas_transform <= USED 0
+;FILE lv_chart.o
+lv_chart_add_cursor <= USED 0
+lv_chart_add_series <= USED 0
+lv_chart_create <= USED 0
+lv_chart_get_cursor_point <= USED 0
+lv_chart_get_point_count <= USED 0
+lv_chart_get_pressed_point <= USED 0
+lv_chart_get_series_next <= USED 0
+lv_chart_get_type <= USED 0
+lv_chart_get_x_array <= USED 0
+lv_chart_get_x_start_point <= USED 0
+lv_chart_get_y_array <= USED 0
+lv_chart_get_zoom_x <= USED 0
+lv_chart_get_zoom_y <= USED 0
+lv_chart_hide_series <= USED 0
+lv_chart_refresh <= USED 0
+lv_chart_remove_series <= USED 0
+lv_chart_set_all_value <= USED 0
+lv_chart_set_axis_tick <= USED 0
+lv_chart_set_cursor_point <= USED 0
+lv_chart_set_cursor_pos <= USED 0
+lv_chart_set_div_line_count <= USED 0
+lv_chart_set_ext_x_array <= USED 0
+lv_chart_set_ext_y_array <= USED 0
+lv_chart_set_next_value <= USED 0
+lv_chart_set_next_value2 <= USED 0
+lv_chart_set_point_count <= USED 0
+lv_chart_set_range <= USED 0
+lv_chart_set_series_color <= USED 0
+lv_chart_set_type <= USED 0
+lv_chart_set_update_mode <= USED 0
+lv_chart_set_value_by_id <= USED 0
+lv_chart_set_value_by_id2 <= USED 0
+lv_chart_set_x_start_point <= USED 0
+lv_chart_set_zoom_x <= USED 0
+lv_chart_set_zoom_y <= USED 0
+;FILE lv_checkbox.o
+lv_checkbox_create <= USED 0
+lv_checkbox_get_text <= USED 0
+lv_checkbox_set_text <= USED 0
+lv_checkbox_set_text_static <= USED 0
+;FILE lv_color.o
+lv_color_change_lightness <= USED 0
+lv_color_lighten <= USED 0
+lv_color_rgb_to_hsv <= USED 0
+lv_color_to_hsv <= USED 0
+;FILE lv_colorwheel.o
+lv_colorwheel_create <= USED 0
+lv_colorwheel_get_color_mode <= USED 0
+lv_colorwheel_get_color_mode_fixed <= USED 0
+lv_colorwheel_get_hsv <= USED 0
+lv_colorwheel_set_mode <= USED 0
+lv_colorwheel_set_mode_fixed <= USED 0
+lv_colorwheel_set_rgb <= USED 0
+;FILE lv_demo_benchmark.o
+lv_demo_benchmark <= USED 0
+;FILE lv_disp.o
+_lv_disp_get_refr_timer <= USED 0
+lv_disp_clean_dcache <= USED 0
+lv_disp_get_inactive_time <= USED 0
+lv_disp_set_bg_color <= USED 0
+lv_disp_set_bg_image <= USED 0
+lv_disp_set_bg_opa <= USED 0
+lv_disp_trig_activity <= USED 0
+lv_scr_load_anim <= USED 0
+;FILE lv_draw.o
+;FILE lv_draw_arc.o
+;FILE lv_draw_img.o
+;FILE lv_draw_label.o
+;FILE lv_draw_line.o
+;FILE lv_draw_mask.o
+lv_draw_mask_apply_ids <= USED 0
+lv_draw_mask_fade_init <= USED 0
+lv_draw_mask_get_cnt <= USED 0
+lv_draw_mask_map_init <= USED 0
+lv_draw_mask_polygon_init <= USED 0
+;FILE lv_draw_rect.o
+;FILE lv_draw_sw.o
+lv_draw_sw_deinit_ctx <= USED 0
+;FILE lv_draw_sw_arc.o
+;FILE lv_draw_sw_blend.o
+;FILE lv_draw_sw_gradient.o
+lv_gradient_free_cache <= USED 0
+;FILE lv_draw_sw_img.o
+;FILE lv_draw_sw_letter.o
+;FILE lv_draw_sw_line.o
+;FILE lv_draw_sw_polygon.o
+;FILE lv_draw_sw_rect.o
+;FILE lv_draw_triangle.o
+lv_draw_polygon <= USED 0
+lv_draw_triangle <= USED 0
+;FILE lv_dropdown.o
+lv_dropdown_add_option <= USED 0
+lv_dropdown_clear_options <= USED 0
+lv_dropdown_get_dir <= USED 0
+lv_dropdown_get_list <= USED 0
+lv_dropdown_get_option_cnt <= USED 0
+lv_dropdown_get_options <= USED 0
+lv_dropdown_get_selected_highlight <= USED 0
+lv_dropdown_get_symbol <= USED 0
+lv_dropdown_get_text <= USED 0
+lv_dropdown_set_dir <= USED 0
+lv_dropdown_set_selected_highlight <= USED 0
+lv_dropdown_set_symbol <= USED 0
+lv_dropdown_set_text <= USED 0
+;FILE lv_event.o
+lv_event_get_cover_area <= USED 0
+lv_event_get_draw_part_dsc <= USED 0
+lv_event_get_hit_test_info <= USED 0
+lv_event_get_key <= USED 0
+lv_event_get_old_size <= USED 0
+lv_event_get_scroll_anim <= USED 0
+lv_event_get_self_size_info <= USED 0
+lv_event_register_id <= USED 0
+lv_event_set_cover_res <= USED 0
+lv_event_stop_bubbling <= USED 0
+lv_event_stop_processing <= USED 0
+lv_obj_get_event_user_data <= USED 0
+lv_obj_remove_event_cb <= USED 0
+lv_obj_remove_event_cb_with_user_data <= USED 0
+lv_obj_remove_event_dsc <= USED 0
+;FILE lv_extra_1.o
+;FILE lv_flex.o
+lv_style_set_flex_cross_place <= USED 0
+lv_style_set_flex_flow <= USED 0
+lv_style_set_flex_grow <= USED 0
+lv_style_set_flex_main_place <= USED 0
+lv_style_set_flex_track_place <= USED 0
+;FILE lv_font.o
+;FILE lv_font_fmt_txt.o
+;FILE lv_font_loader.o
+load_kern <= USED 0
+lv_font_free <= USED 0
+lv_font_load <= USED 0
+;FILE lv_fs.o
+lv_fs_dir_close <= USED 0
+lv_fs_dir_open <= USED 0
+lv_fs_dir_read <= USED 0
+lv_fs_drv_init <= USED 0
+lv_fs_drv_register <= USED 0
+lv_fs_get_last <= USED 0
+lv_fs_get_letters <= USED 0
+lv_fs_is_ready <= USED 0
+lv_fs_tell <= USED 0
+lv_fs_up <= USED 0
+lv_fs_write <= USED 0
+;FILE lv_gc.o
+_lv_gc_clear_roots <= USED 0
+;FILE lv_grid.o
+lv_obj_set_grid_align <= USED 0
+lv_obj_set_grid_cell <= USED 0
+lv_obj_set_grid_dsc_array <= USED 0
+lv_obj_set_style_grid_cell_column_pos <= USED 0
+lv_obj_set_style_grid_cell_column_span <= USED 0
+lv_obj_set_style_grid_cell_row_pos <= USED 0
+lv_obj_set_style_grid_cell_row_span <= USED 0
+lv_obj_set_style_grid_cell_x_align <= USED 0
+lv_obj_set_style_grid_cell_y_align <= USED 0
+lv_obj_set_style_grid_column_align <= USED 0
+lv_obj_set_style_grid_column_dsc_array <= USED 0
+lv_obj_set_style_grid_row_align <= USED 0
+lv_obj_set_style_grid_row_dsc_array <= USED 0
+lv_style_set_grid_cell_column_pos <= USED 0
+lv_style_set_grid_cell_column_span <= USED 0
+lv_style_set_grid_cell_row_pos <= USED 0
+lv_style_set_grid_cell_row_span <= USED 0
+lv_style_set_grid_cell_x_align <= USED 0
+lv_style_set_grid_cell_y_align <= USED 0
+lv_style_set_grid_column_align <= USED 0
+lv_style_set_grid_column_dsc_array <= USED 0
+lv_style_set_grid_row_align <= USED 0
+lv_style_set_grid_row_dsc_array <= USED 0
+;FILE lv_group.o
+lv_group_create <= USED 0
+lv_group_del <= USED 0
+lv_group_focus_freeze <= USED 0
+lv_group_focus_obj <= USED 0
+lv_group_get_focus_cb <= USED 0
+lv_group_get_obj_count <= USED 0
+lv_group_get_wrap <= USED 0
+lv_group_remove_all_objs <= USED 0
+lv_group_send_data <= USED 0
+lv_group_set_default <= USED 0
+lv_group_set_focus_cb <= USED 0
+lv_group_set_refocus_policy <= USED 0
+lv_group_set_wrap <= USED 0
+lv_group_swap_obj <= USED 0
+;FILE lv_hal_disp.o
+lv_disp_drv_update <= USED 0
+lv_disp_drv_use_generic_set_px_cb <= USED 0
+lv_disp_flush_is_last <= USED 0
+lv_disp_get_antialiasing <= USED 0
+lv_disp_get_offset_x <= USED 0
+lv_disp_get_offset_y <= USED 0
+lv_disp_get_physical_hor_res <= USED 0
+lv_disp_get_physical_ver_res <= USED 0
+lv_disp_get_rotation <= USED 0
+lv_disp_remove <= USED 0
+lv_disp_set_default <= USED 0
+lv_disp_set_rotation <= USED 0
+;FILE lv_hal_indev.o
+_lv_indev_read <= USED 0
+lv_indev_delete <= USED 0
+lv_indev_drv_init <= USED 0
+lv_indev_drv_register <= USED 0
+lv_indev_drv_update <= USED 0
+;FILE lv_hal_tick.o
+__asm___13_lv_hal_tick_c_a0578b09____REV16 <= USED 0
+__asm___13_lv_hal_tick_c_a0578b09____REVSH <= USED 0
+__asm___13_lv_hal_tick_c_a0578b09____RRX <= USED 0
+;FILE lv_img.o
+lv_img_get_angle <= USED 0
+lv_img_get_antialias <= USED 0
+lv_img_get_offset_x <= USED 0
+lv_img_get_offset_y <= USED 0
+lv_img_get_pivot <= USED 0
+lv_img_get_size_mode <= USED 0
+lv_img_get_src <= USED 0
+lv_img_get_zoom <= USED 0
+lv_img_set_angle <= USED 0
+lv_img_set_antialias <= USED 0
+lv_img_set_offset_x <= USED 0
+lv_img_set_offset_y <= USED 0
+lv_img_set_pivot <= USED 0
+lv_img_set_size_mode <= USED 0
+lv_img_set_zoom <= USED 0
+;FILE lv_img_buf.o
+lv_img_buf_alloc <= USED 0
+lv_img_buf_free <= USED 0
+lv_img_buf_get_img_size <= USED 0
+lv_img_buf_set_palette <= USED 0
+lv_img_buf_set_px_alpha <= USED 0
+lv_img_buf_set_px_color <= USED 0
+;FILE lv_img_cache.o
+lv_img_cache_invalidate_src <= USED 0
+lv_img_cache_set_size <= USED 0
+;FILE lv_img_decoder.o
+lv_img_decoder_delete <= USED 0
+lv_img_decoder_set_close_cb <= USED 0
+lv_img_decoder_set_info_cb <= USED 0
+lv_img_decoder_set_open_cb <= USED 0
+lv_img_decoder_set_read_line_cb <= USED 0
+;FILE lv_imgbtn.o
+get_state <= USED 0
+lv_imgbtn_create <= USED 0
+lv_imgbtn_get_src_left <= USED 0
+lv_imgbtn_get_src_middle <= USED 0
+lv_imgbtn_get_src_right <= USED 0
+lv_imgbtn_set_src <= USED 0
+lv_imgbtn_set_state <= USED 0
+;FILE lv_indev.o
+lv_indev_enable <= USED 0
+lv_indev_get_gesture_dir <= USED 0
+lv_indev_get_key <= USED 0
+lv_indev_get_read_timer <= USED 0
+lv_indev_read_timer_cb <= USED 0
+lv_indev_search_obj <= USED 0
+lv_indev_set_button_points <= USED 0
+lv_indev_set_cursor <= USED 0
+lv_indev_set_group <= USED 0
+;FILE lv_indev_scroll.o
+_lv_indev_scroll_handler <= USED 0
+_lv_indev_scroll_throw_handler <= USED 0
+lv_indev_scroll_get_snap_dist <= USED 0
+;FILE lv_keyboard.o
+lv_btnmatrix_get_popovers <= USED 0
+lv_keyboard_create <= USED 0
+lv_keyboard_get_mode <= USED 0
+lv_keyboard_get_textarea <= USED 0
+lv_keyboard_set_map <= USED 0
+lv_keyboard_set_mode <= USED 0
+lv_keyboard_set_popovers <= USED 0
+lv_keyboard_set_textarea <= USED 0
+;FILE lv_label.o
+lv_label_cut_text <= USED 0
+lv_label_get_long_mode <= USED 0
+lv_label_get_recolor <= USED 0
+lv_label_set_recolor <= USED 0
+;FILE lv_led.o
+lv_led_create <= USED 0
+lv_led_get_brightness <= USED 0
+lv_led_off <= USED 0
+lv_led_on <= USED 0
+lv_led_set_brightness <= USED 0
+lv_led_set_color <= USED 0
+lv_led_toggle <= USED 0
+;FILE lv_line.o
+lv_line_create <= USED 0
+lv_line_get_y_invert <= USED 0
+lv_line_set_points <= USED 0
+lv_line_set_y_invert <= USED 0
+;FILE lv_list.o
+lv_list_add_btn <= USED 0
+lv_list_add_text <= USED 0
+lv_list_create <= USED 0
+lv_list_get_btn_text <= USED 0
+;FILE lv_ll.o
+_lv_ll_chg_list <= USED 0
+_lv_ll_ins_prev <= USED 0
+_lv_ll_move_before <= USED 0
+;FILE lv_lru.o
+lv_lru_create <= USED 0
+lv_lru_del <= USED 0
+lv_lru_get <= USED 0
+lv_lru_remove <= USED 0
+lv_lru_set <= USED 0
+;FILE lv_math.o
+lv_rand <= USED 0
+lv_sqrt <= USED 0
+;FILE lv_mem.o
+lv_mem_deinit <= USED 0
+lv_mem_test <= USED 0
+;FILE lv_menu.o
+lv_menu_cont_create <= USED 0
+lv_menu_create <= USED 0
+lv_menu_get_cur_main_page <= USED 0
+lv_menu_get_cur_sidebar_page <= USED 0
+lv_menu_get_main_header <= USED 0
+lv_menu_get_main_header_back_btn <= USED 0
+lv_menu_get_sidebar_header <= USED 0
+lv_menu_get_sidebar_header_back_btn <= USED 0
+lv_menu_page_create <= USED 0
+lv_menu_section_create <= USED 0
+lv_menu_separator_create <= USED 0
+lv_menu_set_load_page_event <= USED 0
+lv_menu_set_mode_header <= USED 0
+lv_menu_set_mode_root_back_btn <= USED 0
+lv_menu_set_sidebar_page <= USED 0
+;FILE lv_meter.o
+lv_meter_add_arc <= USED 0
+lv_meter_add_needle_img <= USED 0
+lv_meter_add_needle_line <= USED 0
+lv_meter_add_scale <= USED 0
+lv_meter_add_scale_lines <= USED 0
+lv_meter_create <= USED 0
+lv_meter_set_indicator_end_value <= USED 0
+lv_meter_set_indicator_start_value <= USED 0
+lv_meter_set_indicator_value <= USED 0
+lv_meter_set_scale_major_ticks <= USED 0
+lv_meter_set_scale_range <= USED 0
+lv_meter_set_scale_ticks <= USED 0
+;FILE lv_msgbox.o
+lv_msgbox_close <= USED 0
+lv_msgbox_close_async <= USED 0
+lv_msgbox_create <= USED 0
+lv_msgbox_get_active_btn <= USED 0
+lv_msgbox_get_active_btn_text <= USED 0
+lv_msgbox_get_btns <= USED 0
+lv_msgbox_get_close_btn <= USED 0
+lv_msgbox_get_content <= USED 0
+lv_msgbox_get_text <= USED 0
+lv_msgbox_get_title <= USED 0
+;FILE lv_obj.o
+lv_deinit <= USED 0
+lv_is_initialized <= USED 0
+lv_obj_get_class <= USED 0
+lv_obj_has_class <= USED 0
+lv_obj_has_state <= USED 0
+lv_obj_is_valid <= USED 0
+;FILE lv_obj_class.o
+;FILE lv_obj_draw.o
+lv_obj_draw_part_check_type <= USED 0
+;FILE lv_obj_pos.o
+lv_obj_get_x2 <= USED 0
+lv_obj_get_x_aligned <= USED 0
+lv_obj_get_y_aligned <= USED 0
+lv_obj_hit_test <= USED 0
+lv_obj_set_content_height <= USED 0
+lv_obj_set_content_width <= USED 0
+;FILE lv_obj_scroll.o
+lv_obj_is_scrolling <= USED 0
+lv_obj_scroll_to_view <= USED 0
+lv_obj_update_snap <= USED 0
+;FILE lv_obj_style.o
+lv_obj_fade_in <= USED 0
+lv_obj_fade_out <= USED 0
+;FILE lv_obj_style_gen.o
+lv_obj_set_style_anim_speed <= USED 0
+lv_obj_set_style_anim_time <= USED 0
+lv_obj_set_style_arc_color <= USED 0
+lv_obj_set_style_arc_color_filtered <= USED 0
+lv_obj_set_style_arc_img_src <= USED 0
+lv_obj_set_style_arc_opa <= USED 0
+lv_obj_set_style_arc_rounded <= USED 0
+lv_obj_set_style_arc_width <= USED 0
+lv_obj_set_style_bg_color_filtered <= USED 0
+lv_obj_set_style_bg_dither_mode <= USED 0
+lv_obj_set_style_bg_grad <= USED 0
+lv_obj_set_style_bg_grad_color <= USED 0
+lv_obj_set_style_bg_grad_color_filtered <= USED 0
+lv_obj_set_style_bg_grad_dir <= USED 0
+lv_obj_set_style_bg_grad_stop <= USED 0
+lv_obj_set_style_bg_img_opa <= USED 0
+lv_obj_set_style_bg_img_recolor <= USED 0
+lv_obj_set_style_bg_img_recolor_filtered <= USED 0
+lv_obj_set_style_bg_img_recolor_opa <= USED 0
+lv_obj_set_style_bg_img_tiled <= USED 0
+lv_obj_set_style_bg_main_stop <= USED 0
+lv_obj_set_style_blend_mode <= USED 0
+lv_obj_set_style_border_color <= USED 0
+lv_obj_set_style_border_color_filtered <= USED 0
+lv_obj_set_style_border_opa <= USED 0
+lv_obj_set_style_border_post <= USED 0
+lv_obj_set_style_border_side <= USED 0
+lv_obj_set_style_border_width <= USED 0
+lv_obj_set_style_clip_corner <= USED 0
+lv_obj_set_style_color_filter_dsc <= USED 0
+lv_obj_set_style_color_filter_opa <= USED 0
+lv_obj_set_style_img_opa <= USED 0
+lv_obj_set_style_img_recolor <= USED 0
+lv_obj_set_style_img_recolor_filtered <= USED 0
+lv_obj_set_style_img_recolor_opa <= USED 0
+lv_obj_set_style_line_color <= USED 0
+lv_obj_set_style_line_color_filtered <= USED 0
+lv_obj_set_style_line_dash_gap <= USED 0
+lv_obj_set_style_line_dash_width <= USED 0
+lv_obj_set_style_line_opa <= USED 0
+lv_obj_set_style_line_rounded <= USED 0
+lv_obj_set_style_line_width <= USED 0
+lv_obj_set_style_max_height <= USED 0
+lv_obj_set_style_max_width <= USED 0
+lv_obj_set_style_min_height <= USED 0
+lv_obj_set_style_outline_color <= USED 0
+lv_obj_set_style_outline_color_filtered <= USED 0
+lv_obj_set_style_outline_opa <= USED 0
+lv_obj_set_style_outline_pad <= USED 0
+lv_obj_set_style_outline_width <= USED 0
+lv_obj_set_style_pad_column <= USED 0
+lv_obj_set_style_pad_row <= USED 0
+lv_obj_set_style_radius <= USED 0
+lv_obj_set_style_shadow_color <= USED 0
+lv_obj_set_style_shadow_color_filtered <= USED 0
+lv_obj_set_style_shadow_ofs_x <= USED 0
+lv_obj_set_style_shadow_ofs_y <= USED 0
+lv_obj_set_style_shadow_opa <= USED 0
+lv_obj_set_style_shadow_spread <= USED 0
+lv_obj_set_style_shadow_width <= USED 0
+lv_obj_set_style_text_color_filtered <= USED 0
+lv_obj_set_style_text_decor <= USED 0
+lv_obj_set_style_text_font <= USED 0
+lv_obj_set_style_text_letter_space <= USED 0
+lv_obj_set_style_text_line_space <= USED 0
+lv_obj_set_style_transform_angle <= USED 0
+lv_obj_set_style_transform_height <= USED 0
+lv_obj_set_style_transform_width <= USED 0
+lv_obj_set_style_transform_zoom <= USED 0
+lv_obj_set_style_transition <= USED 0
+lv_obj_set_style_translate_x <= USED 0
+lv_obj_set_style_translate_y <= USED 0
+;FILE lv_obj_tree.o
+lv_obj_clean <= USED 0
+lv_obj_del_anim_ready_cb <= USED 0
+lv_obj_del_async <= USED 0
+lv_obj_del_delayed <= USED 0
+lv_obj_swap <= USED 0
+lv_obj_tree_walk <= USED 0
+;FILE lv_port_disp_template.o
+__asm___23_lv_port_disp_template_c_e81cf227____REV16 <= USED 0
+__asm___23_lv_port_disp_template_c_e81cf227____REVSH <= USED 0
+__asm___23_lv_port_disp_template_c_e81cf227____RRX <= USED 0
+;FILE lv_port_indev_template.o
+lv_port_indev_init <= USED 0
+;FILE lv_printf.o
+;FILE lv_refr.o
+_lv_refr_set_disp_refreshing <= USED 0
+lv_refr_get_fps_avg <= USED 0
+lv_refr_now <= USED 0
+lv_refr_reset_fps_counter <= USED 0
+;FILE lv_roller.o
+lv_roller_create <= USED 0
+lv_roller_get_option_cnt <= USED 0
+lv_roller_get_options <= USED 0
+lv_roller_get_selected <= USED 0
+lv_roller_get_selected_str <= USED 0
+lv_roller_set_visible_row_count <= USED 0
+;FILE lv_slider.o
+lv_slider_create <= USED 0
+lv_slider_is_dragged <= USED 0
+;FILE lv_span.o
+lv_span_set_text <= USED 0
+lv_span_set_text_static <= USED 0
+lv_spangroup_create <= USED 0
+lv_spangroup_del_span <= USED 0
+lv_spangroup_get_align <= USED 0
+lv_spangroup_get_child <= USED 0
+lv_spangroup_get_child_cnt <= USED 0
+lv_spangroup_get_expand_height <= USED 0
+lv_spangroup_get_expand_width <= USED 0
+lv_spangroup_get_indent <= USED 0
+lv_spangroup_get_max_line_h <= USED 0
+lv_spangroup_get_mode <= USED 0
+lv_spangroup_get_overflow <= USED 0
+lv_spangroup_new_span <= USED 0
+lv_spangroup_refr_mode <= USED 0
+lv_spangroup_set_align <= USED 0
+lv_spangroup_set_indent <= USED 0
+lv_spangroup_set_mode <= USED 0
+lv_spangroup_set_overflow <= USED 0
+;FILE lv_spinbox.o
+lv_spinbox_create <= USED 0
+lv_spinbox_get_rollover <= USED 0
+lv_spinbox_get_step <= USED 0
+lv_spinbox_get_value <= USED 0
+lv_spinbox_set_digit_format <= USED 0
+lv_spinbox_set_digit_step_direction <= USED 0
+lv_spinbox_set_pos <= USED 0
+lv_spinbox_set_range <= USED 0
+lv_spinbox_set_rollover <= USED 0
+lv_spinbox_set_step <= USED 0
+lv_spinbox_set_value <= USED 0
+;FILE lv_spinner.o
+lv_spinner_create <= USED 0
+;FILE lv_style.o
+;FILE lv_style_gen.o
+lv_style_set_align <= USED 0
+lv_style_set_anim_speed <= USED 0
+lv_style_set_arc_color_filtered <= USED 0
+lv_style_set_arc_img_src <= USED 0
+lv_style_set_arc_opa <= USED 0
+lv_style_set_base_dir <= USED 0
+lv_style_set_bg_color_filtered <= USED 0
+lv_style_set_bg_dither_mode <= USED 0
+lv_style_set_bg_grad <= USED 0
+lv_style_set_bg_grad_color_filtered <= USED 0
+lv_style_set_bg_grad_dir <= USED 0
+lv_style_set_bg_grad_stop <= USED 0
+lv_style_set_bg_img_opa <= USED 0
+lv_style_set_bg_img_recolor <= USED 0
+lv_style_set_bg_img_recolor_filtered <= USED 0
+lv_style_set_bg_img_recolor_opa <= USED 0
+lv_style_set_bg_img_tiled <= USED 0
+lv_style_set_bg_main_stop <= USED 0
+lv_style_set_blend_mode <= USED 0
+lv_style_set_border_color_filtered <= USED 0
+lv_style_set_img_opa <= USED 0
+lv_style_set_img_recolor <= USED 0
+lv_style_set_img_recolor_filtered <= USED 0
+lv_style_set_img_recolor_opa <= USED 0
+lv_style_set_layout <= USED 0
+lv_style_set_line_color_filtered <= USED 0
+lv_style_set_line_dash_gap <= USED 0
+lv_style_set_line_dash_width <= USED 0
+lv_style_set_line_opa <= USED 0
+lv_style_set_line_rounded <= USED 0
+lv_style_set_min_height <= USED 0
+lv_style_set_min_width <= USED 0
+lv_style_set_opa <= USED 0
+lv_style_set_outline_color_filtered <= USED 0
+lv_style_set_shadow_color_filtered <= USED 0
+lv_style_set_shadow_ofs_x <= USED 0
+lv_style_set_text_color_filtered <= USED 0
+lv_style_set_text_decor <= USED 0
+lv_style_set_text_letter_space <= USED 0
+lv_style_set_text_opa <= USED 0
+lv_style_set_transform_angle <= USED 0
+lv_style_set_transform_zoom <= USED 0
+lv_style_set_translate_x <= USED 0
+lv_style_set_translate_y <= USED 0
+lv_style_set_x <= USED 0
+lv_style_set_y <= USED 0
+;FILE lv_switch.o
+lv_switch_create <= USED 0
+;FILE lv_table.o
+lv_table_add_cell_ctrl <= USED 0
+lv_table_clear_cell_ctrl <= USED 0
+lv_table_create <= USED 0
+lv_table_get_cell_value <= USED 0
+lv_table_get_col_cnt <= USED 0
+lv_table_get_col_width <= USED 0
+lv_table_get_row_cnt <= USED 0
+lv_table_get_selected_cell <= USED 0
+lv_table_has_cell_ctrl <= USED 0
+lv_table_set_cell_value <= USED 0
+lv_table_set_cell_value_fmt <= USED 0
+lv_table_set_col_cnt <= USED 0
+lv_table_set_col_width <= USED 0
+lv_table_set_row_cnt <= USED 0
+;FILE lv_tabview.o
+lv_tabview_add_tab <= USED 0
+lv_tabview_create <= USED 0
+lv_tabview_get_tab_act <= USED 0
+;FILE lv_textarea.o
+lv_textarea_create <= USED 0
+lv_textarea_get_accepted_chars <= USED 0
+lv_textarea_get_cursor_click_pos <= USED 0
+lv_textarea_get_label <= USED 0
+lv_textarea_get_max_length <= USED 0
+lv_textarea_get_password_mode <= USED 0
+lv_textarea_get_password_show_time <= USED 0
+lv_textarea_get_placeholder_text <= USED 0
+lv_textarea_get_text_selection <= USED 0
+lv_textarea_set_accepted_chars <= USED 0
+lv_textarea_set_align <= USED 0
+lv_textarea_set_insert_replace <= USED 0
+lv_textarea_set_max_length <= USED 0
+lv_textarea_set_password_mode <= USED 0
+lv_textarea_set_password_show_time <= USED 0
+lv_textarea_set_placeholder_text <= USED 0
+lv_textarea_set_text_selection <= USED 0
+lv_textarea_text_is_selected <= USED 0
+;FILE lv_theme.o
+lv_theme_get_color_secondary <= USED 0
+lv_theme_get_font_large <= USED 0
+lv_theme_get_font_normal <= USED 0
+lv_theme_get_font_small <= USED 0
+lv_theme_set_apply_cb <= USED 0
+lv_theme_set_parent <= USED 0
+;FILE lv_theme_basic.o
+lv_theme_basic_init <= USED 0
+lv_theme_basic_is_inited <= USED 0
+;FILE lv_theme_default.o
+;FILE lv_theme_mono.o
+lv_theme_mono_init <= USED 0
+lv_theme_mono_is_inited <= USED 0
+;FILE lv_tileview.o
+lv_obj_set_tile <= USED 0
+lv_obj_set_tile_id <= USED 0
+lv_tileview_add_tile <= USED 0
+lv_tileview_create <= USED 0
+lv_tileview_get_tile_act <= USED 0
+;FILE lv_timer.o
+lv_timer_create_basic <= USED 0
+lv_timer_enable <= USED 0
+lv_timer_get_next <= USED 0
+lv_timer_reset <= USED 0
+lv_timer_set_cb <= USED 0
+lv_timer_set_period <= USED 0
+lv_timer_set_repeat_count <= USED 0
+;FILE lv_tlsf.o
+lv_tlsf_align_size <= USED 0
+lv_tlsf_alloc_overhead <= USED 0
+lv_tlsf_block_size <= USED 0
+lv_tlsf_block_size_max <= USED 0
+lv_tlsf_block_size_min <= USED 0
+lv_tlsf_check <= USED 0
+lv_tlsf_check_pool <= USED 0
+lv_tlsf_destroy <= USED 0
+lv_tlsf_memalign <= USED 0
+lv_tlsf_pool_overhead <= USED 0
+lv_tlsf_remove_pool <= USED 0
+lv_tlsf_size <= USED 0
+;FILE lv_txt.o
+;FILE lv_utils.o
+;FILE lv_win.o
+lv_win_add_btn <= USED 0
+lv_win_add_title <= USED 0
+lv_win_create <= USED 0
+lv_win_get_content <= USED 0
+lv_win_get_header <= USED 0
+;FILE lvgl_anim.o
+_ui_anim_callback_free_user_data <= USED 0
+_ui_anim_callback_get_height <= USED 0
+_ui_anim_callback_get_image_angle <= USED 0
+_ui_anim_callback_get_image_frame <= USED 0
+_ui_anim_callback_get_image_zoom <= USED 0
+_ui_anim_callback_get_opacity <= USED 0
+_ui_anim_callback_get_width <= USED 0
+_ui_anim_callback_get_x <= USED 0
+_ui_anim_callback_get_y <= USED 0
+_ui_anim_callback_set_height <= USED 0
+_ui_anim_callback_set_image_angle <= USED 0
+_ui_anim_callback_set_image_frame <= USED 0
+_ui_anim_callback_set_image_zoom <= USED 0
+_ui_anim_callback_set_opacity <= USED 0
+_ui_anim_callback_set_width <= USED 0
+_ui_anim_callback_set_x <= USED 0
+_ui_anim_callback_set_y <= USED 0
+_ui_arc_increment <= USED 0
+_ui_arc_set_text_value <= USED 0
+_ui_bar_increment <= USED 0
+_ui_bar_set_property <= USED 0
+_ui_basic_set_property <= USED 0
+_ui_checked_set_text_value <= USED 0
+_ui_dropdown_set_property <= USED 0
+_ui_flag_modify <= USED 0
+_ui_image_set_property <= USED 0
+_ui_keyboard_set_target <= USED 0
+_ui_label_set_property <= USED 0
+_ui_opacity_set <= USED 0
+_ui_roller_set_property <= USED 0
+_ui_screen_change <= USED 0
+_ui_screen_delete <= USED 0
+_ui_slider_increment <= USED 0
+_ui_slider_set_property <= USED 0
+_ui_slider_set_text_value <= USED 0
+_ui_state_modify <= USED 0
+scr_unloaded_delete_cb <= USED 0
+;FILE main.o
+__asm___6_main_c_d_t____REV16 <= USED 0
+__asm___6_main_c_d_t____REVSH <= USED 0
+__asm___6_main_c_d_t____RRX <= USED 0
+lv_ex_label <= USED 0
+;FILE qrcodegen.o
+qrcodegen_calcSegmentBufferSize <= USED 0
+qrcodegen_encodeBinary <= USED 0
+qrcodegen_encodeSegments <= USED 0
+qrcodegen_encodeSegmentsAdvanced <= USED 0
+qrcodegen_encodeText <= USED 0
+qrcodegen_getMinFitVersion <= USED 0
+qrcodegen_getModule <= USED 0
+qrcodegen_getSize <= USED 0
+qrcodegen_isAlphanumeric <= USED 0
+qrcodegen_isNumeric <= USED 0
+qrcodegen_makeAlphanumeric <= USED 0
+qrcodegen_makeBytes <= USED 0
+qrcodegen_makeEci <= USED 0
+qrcodegen_makeNumeric <= USED 0
+qrcodegen_version2size <= USED 0
+;FILE spi.o
+HAL_SPI_MspDeInit <= USED 0
+__asm___5_spi_c_a276374e____REV16 <= USED 0
+__asm___5_spi_c_a276374e____REVSH <= USED 0
+__asm___5_spi_c_a276374e____RRX <= USED 0
+;FILE startpage.o
+;FILE startup_stm32h750xx.o
+;FILE stm32h7xx_hal.o
+HAL_DBGMCU_DisableDBGSleepMode <= USED 0
+HAL_DBGMCU_DisableDBGStandbyMode <= USED 0
+HAL_DBGMCU_DisableDBGStopMode <= USED 0
+HAL_DBGMCU_EnableDBGSleepMode <= USED 0
+HAL_DBGMCU_EnableDBGStandbyMode <= USED 0
+HAL_DBGMCU_EnableDBGStopMode <= USED 0
+HAL_DeInit <= USED 0
+HAL_DisableCompensationCell <= USED 0
+HAL_EXTI_D1_ClearFlag <= USED 0
+HAL_EXTI_D1_EventInputConfig <= USED 0
+HAL_EXTI_D3_EventInputConfig <= USED 0
+HAL_EXTI_EdgeConfig <= USED 0
+HAL_EXTI_GenerateSWInterrupt <= USED 0
+HAL_EnableCompensationCell <= USED 0
+HAL_GetDEVID <= USED 0
+HAL_GetFMCMemorySwappingConfig <= USED 0
+HAL_GetHalVersion <= USED 0
+HAL_GetTickFreq <= USED 0
+HAL_GetTickPrio <= USED 0
+HAL_GetUIDw0 <= USED 0
+HAL_GetUIDw1 <= USED 0
+HAL_GetUIDw2 <= USED 0
+HAL_MspDeInit <= USED 0
+HAL_ResumeTick <= USED 0
+HAL_SYSCFG_AnalogSwitchConfig <= USED 0
+HAL_SYSCFG_CM7BootAddConfig <= USED 0
+HAL_SYSCFG_CompensationCodeConfig <= USED 0
+HAL_SYSCFG_CompensationCodeSelect <= USED 0
+HAL_SYSCFG_DisableBOOST <= USED 0
+HAL_SYSCFG_DisableIOSpeedOptimize <= USED 0
+HAL_SYSCFG_DisableVREFBUF <= USED 0
+HAL_SYSCFG_ETHInterfaceSelect <= USED 0
+HAL_SYSCFG_EnableBOOST <= USED 0
+HAL_SYSCFG_EnableIOSpeedOptimize <= USED 0
+HAL_SYSCFG_EnableVREFBUF <= USED 0
+HAL_SYSCFG_VREFBUF_HighImpedanceConfig <= USED 0
+HAL_SYSCFG_VREFBUF_TrimmingConfig <= USED 0
+HAL_SYSCFG_VREFBUF_VoltageScalingConfig <= USED 0
+HAL_SetFMCMemorySwappingConfig <= USED 0
+HAL_SetTickFreq <= USED 0
+HAL_SuspendTick <= USED 0
+__asm___15_stm32h7xx_hal_c_3da258af____REV16 <= USED 0
+__asm___15_stm32h7xx_hal_c_3da258af____REVSH <= USED 0
+__asm___15_stm32h7xx_hal_c_3da258af____RRX <= USED 0
+;FILE stm32h7xx_hal_cortex.o
+HAL_GetCurrentCPUID <= USED 0
+HAL_MPU_ConfigRegion <= USED 0
+HAL_MPU_Disable <= USED 0
+HAL_MPU_Enable <= USED 0
+HAL_NVIC_ClearPendingIRQ <= USED 0
+HAL_NVIC_DisableIRQ <= USED 0
+HAL_NVIC_GetActive <= USED 0
+HAL_NVIC_GetPendingIRQ <= USED 0
+HAL_NVIC_GetPriority <= USED 0
+HAL_NVIC_GetPriorityGrouping <= USED 0
+HAL_NVIC_SetPendingIRQ <= USED 0
+HAL_NVIC_SystemReset <= USED 0
+HAL_SYSTICK_CLKSourceConfig <= USED 0
+HAL_SYSTICK_Callback <= USED 0
+HAL_SYSTICK_IRQHandler <= USED 0
+__asm___22_stm32h7xx_hal_cortex_c_2992dbc0____REV16 <= USED 0
+__asm___22_stm32h7xx_hal_cortex_c_2992dbc0____REVSH <= USED 0
+__asm___22_stm32h7xx_hal_cortex_c_2992dbc0____RRX <= USED 0
+;FILE stm32h7xx_hal_dma.o
+HAL_DMA_Abort <= USED 0
+HAL_DMA_DeInit <= USED 0
+HAL_DMA_GetState <= USED 0
+HAL_DMA_PollForTransfer <= USED 0
+HAL_DMA_RegisterCallback <= USED 0
+HAL_DMA_Start <= USED 0
+HAL_DMA_UnRegisterCallback <= USED 0
+__asm___19_stm32h7xx_hal_dma_c_c25f65ec____REV16 <= USED 0
+__asm___19_stm32h7xx_hal_dma_c_c25f65ec____REVSH <= USED 0
+__asm___19_stm32h7xx_hal_dma_c_c25f65ec____RRX <= USED 0
+;FILE stm32h7xx_hal_dma2d.o
+HAL_DMA2D_Abort <= USED 0
+HAL_DMA2D_BlendingStart <= USED 0
+HAL_DMA2D_BlendingStart_IT <= USED 0
+HAL_DMA2D_CLUTLoad <= USED 0
+HAL_DMA2D_CLUTLoad_IT <= USED 0
+HAL_DMA2D_CLUTLoadingCpltCallback <= USED 0
+HAL_DMA2D_CLUTLoading_Abort <= USED 0
+HAL_DMA2D_CLUTLoading_Resume <= USED 0
+HAL_DMA2D_CLUTLoading_Suspend <= USED 0
+HAL_DMA2D_CLUTStartLoad <= USED 0
+HAL_DMA2D_CLUTStartLoad_IT <= USED 0
+HAL_DMA2D_ConfigCLUT <= USED 0
+HAL_DMA2D_ConfigDeadTime <= USED 0
+HAL_DMA2D_DeInit <= USED 0
+HAL_DMA2D_DisableDeadTime <= USED 0
+HAL_DMA2D_EnableCLUT <= USED 0
+HAL_DMA2D_EnableDeadTime <= USED 0
+HAL_DMA2D_GetError <= USED 0
+HAL_DMA2D_GetState <= USED 0
+HAL_DMA2D_IRQHandler <= USED 0
+HAL_DMA2D_LineEventCallback <= USED 0
+HAL_DMA2D_PollForTransfer <= USED 0
+HAL_DMA2D_ProgramLineEvent <= USED 0
+HAL_DMA2D_Resume <= USED 0
+HAL_DMA2D_Start <= USED 0
+HAL_DMA2D_Start_IT <= USED 0
+HAL_DMA2D_Suspend <= USED 0
+__asm___21_stm32h7xx_hal_dma2d_c_16a0ba09____REV16 <= USED 0
+__asm___21_stm32h7xx_hal_dma2d_c_16a0ba09____REVSH <= USED 0
+__asm___21_stm32h7xx_hal_dma2d_c_16a0ba09____RRX <= USED 0
+;FILE stm32h7xx_hal_dma_ex.o
+HAL_DMAEx_ChangeMemory <= USED 0
+HAL_DMAEx_ConfigMuxRequestGenerator <= USED 0
+HAL_DMAEx_ConfigMuxSync <= USED 0
+HAL_DMAEx_DisableMuxRequestGenerator <= USED 0
+HAL_DMAEx_EnableMuxRequestGenerator <= USED 0
+HAL_DMAEx_MUX_IRQHandler <= USED 0
+HAL_DMAEx_MultiBufferStart <= USED 0
+HAL_DMAEx_MultiBufferStart_IT <= USED 0
+__asm___22_stm32h7xx_hal_dma_ex_c_af8eecb0____REV16 <= USED 0
+__asm___22_stm32h7xx_hal_dma_ex_c_af8eecb0____REVSH <= USED 0
+__asm___22_stm32h7xx_hal_dma_ex_c_af8eecb0____RRX <= USED 0
+;FILE stm32h7xx_hal_exti.o
+HAL_EXTI_ClearConfigLine <= USED 0
+HAL_EXTI_ClearPending <= USED 0
+HAL_EXTI_GenerateSWI <= USED 0
+HAL_EXTI_GetConfigLine <= USED 0
+HAL_EXTI_GetHandle <= USED 0
+HAL_EXTI_GetPending <= USED 0
+HAL_EXTI_IRQHandler <= USED 0
+HAL_EXTI_RegisterCallback <= USED 0
+HAL_EXTI_SetConfigLine <= USED 0
+__asm___20_stm32h7xx_hal_exti_c_ad9bfa1e____REV16 <= USED 0
+__asm___20_stm32h7xx_hal_exti_c_ad9bfa1e____REVSH <= USED 0
+__asm___20_stm32h7xx_hal_exti_c_ad9bfa1e____RRX <= USED 0
+;FILE stm32h7xx_hal_flash.o
+FLASH_CRC_WaitForLastOperation <= USED 0
+FLASH_OB_WaitForLastOperation <= USED 0
+FLASH_WaitForLastOperation <= USED 0
+HAL_FLASH_EndOfOperationCallback <= USED 0
+HAL_FLASH_GetError <= USED 0
+HAL_FLASH_IRQHandler <= USED 0
+HAL_FLASH_Lock <= USED 0
+HAL_FLASH_OB_Launch <= USED 0
+HAL_FLASH_OB_Lock <= USED 0
+HAL_FLASH_OB_Unlock <= USED 0
+HAL_FLASH_OperationErrorCallback <= USED 0
+HAL_FLASH_Program <= USED 0
+HAL_FLASH_Program_IT <= USED 0
+HAL_FLASH_Unlock <= USED 0
+__asm___21_stm32h7xx_hal_flash_c_48aa8f3e____REV16 <= USED 0
+__asm___21_stm32h7xx_hal_flash_c_48aa8f3e____REVSH <= USED 0
+__asm___21_stm32h7xx_hal_flash_c_48aa8f3e____RRX <= USED 0
+;FILE stm32h7xx_hal_flash_ex.o
+FLASH_Erase_Sector <= USED 0
+HAL_FLASHEx_ComputeCRC <= USED 0
+HAL_FLASHEx_Erase <= USED 0
+HAL_FLASHEx_Erase_IT <= USED 0
+HAL_FLASHEx_Lock_Bank1 <= USED 0
+HAL_FLASHEx_OBGetConfig <= USED 0
+HAL_FLASHEx_OBProgram <= USED 0
+HAL_FLASHEx_Unlock_Bank1 <= USED 0
+__asm___24_stm32h7xx_hal_flash_ex_c_6648b60e____REV16 <= USED 0
+__asm___24_stm32h7xx_hal_flash_ex_c_6648b60e____REVSH <= USED 0
+__asm___24_stm32h7xx_hal_flash_ex_c_6648b60e____RRX <= USED 0
+;FILE stm32h7xx_hal_gpio.o
+HAL_GPIO_DeInit <= USED 0
+HAL_GPIO_EXTI_Callback <= USED 0
+HAL_GPIO_EXTI_IRQHandler <= USED 0
+HAL_GPIO_LockPin <= USED 0
+HAL_GPIO_ReadPin <= USED 0
+HAL_GPIO_TogglePin <= USED 0
+__asm___20_stm32h7xx_hal_gpio_c_ea787061____REV16 <= USED 0
+__asm___20_stm32h7xx_hal_gpio_c_ea787061____REVSH <= USED 0
+__asm___20_stm32h7xx_hal_gpio_c_ea787061____RRX <= USED 0
+;FILE stm32h7xx_hal_hsem.o
+HAL_HSEM_ActivateNotification <= USED 0
+HAL_HSEM_DeactivateNotification <= USED 0
+HAL_HSEM_FastTake <= USED 0
+HAL_HSEM_FreeCallback <= USED 0
+HAL_HSEM_GetClearKey <= USED 0
+HAL_HSEM_IRQHandler <= USED 0
+HAL_HSEM_IsSemTaken <= USED 0
+HAL_HSEM_Release <= USED 0
+HAL_HSEM_ReleaseAll <= USED 0
+HAL_HSEM_SetClearKey <= USED 0
+HAL_HSEM_Take <= USED 0
+__asm___20_stm32h7xx_hal_hsem_c_c08ff923____REV16 <= USED 0
+__asm___20_stm32h7xx_hal_hsem_c_c08ff923____REVSH <= USED 0
+__asm___20_stm32h7xx_hal_hsem_c_c08ff923____RRX <= USED 0
+;FILE stm32h7xx_hal_i2c.o
+HAL_I2C_AbortCpltCallback <= USED 0
+HAL_I2C_AddrCallback <= USED 0
+HAL_I2C_DeInit <= USED 0
+HAL_I2C_DisableListen_IT <= USED 0
+HAL_I2C_ER_IRQHandler <= USED 0
+HAL_I2C_EV_IRQHandler <= USED 0
+HAL_I2C_EnableListen_IT <= USED 0
+HAL_I2C_ErrorCallback <= USED 0
+HAL_I2C_GetError <= USED 0
+HAL_I2C_GetMode <= USED 0
+HAL_I2C_GetState <= USED 0
+HAL_I2C_Init <= USED 0
+HAL_I2C_IsDeviceReady <= USED 0
+HAL_I2C_ListenCpltCallback <= USED 0
+HAL_I2C_MasterRxCpltCallback <= USED 0
+HAL_I2C_MasterTxCpltCallback <= USED 0
+HAL_I2C_Master_Abort_IT <= USED 0
+HAL_I2C_Master_Receive <= USED 0
+HAL_I2C_Master_Receive_DMA <= USED 0
+HAL_I2C_Master_Receive_IT <= USED 0
+HAL_I2C_Master_Seq_Receive_DMA <= USED 0
+HAL_I2C_Master_Seq_Receive_IT <= USED 0
+HAL_I2C_Master_Seq_Transmit_DMA <= USED 0
+HAL_I2C_Master_Seq_Transmit_IT <= USED 0
+HAL_I2C_Master_Transmit <= USED 0
+HAL_I2C_Master_Transmit_DMA <= USED 0
+HAL_I2C_Master_Transmit_IT <= USED 0
+HAL_I2C_MemRxCpltCallback <= USED 0
+HAL_I2C_MemTxCpltCallback <= USED 0
+HAL_I2C_Mem_Read <= USED 0
+HAL_I2C_Mem_Read_DMA <= USED 0
+HAL_I2C_Mem_Read_IT <= USED 0
+HAL_I2C_Mem_Write <= USED 0
+HAL_I2C_Mem_Write_DMA <= USED 0
+HAL_I2C_Mem_Write_IT <= USED 0
+HAL_I2C_MspDeInit <= USED 0
+HAL_I2C_MspInit <= USED 0
+HAL_I2C_SlaveRxCpltCallback <= USED 0
+HAL_I2C_SlaveTxCpltCallback <= USED 0
+HAL_I2C_Slave_Receive <= USED 0
+HAL_I2C_Slave_Receive_DMA <= USED 0
+HAL_I2C_Slave_Receive_IT <= USED 0
+HAL_I2C_Slave_Seq_Receive_DMA <= USED 0
+HAL_I2C_Slave_Seq_Receive_IT <= USED 0
+HAL_I2C_Slave_Seq_Transmit_DMA <= USED 0
+HAL_I2C_Slave_Seq_Transmit_IT <= USED 0
+HAL_I2C_Slave_Transmit <= USED 0
+HAL_I2C_Slave_Transmit_DMA <= USED 0
+HAL_I2C_Slave_Transmit_IT <= USED 0
+__asm___19_stm32h7xx_hal_i2c_c_0eb271f4____REV16 <= USED 0
+__asm___19_stm32h7xx_hal_i2c_c_0eb271f4____REVSH <= USED 0
+__asm___19_stm32h7xx_hal_i2c_c_0eb271f4____RRX <= USED 0
+;FILE stm32h7xx_hal_i2c_ex.o
+HAL_I2CEx_ConfigAnalogFilter <= USED 0
+HAL_I2CEx_ConfigDigitalFilter <= USED 0
+HAL_I2CEx_DisableFastModePlus <= USED 0
+HAL_I2CEx_DisableWakeUp <= USED 0
+HAL_I2CEx_EnableFastModePlus <= USED 0
+HAL_I2CEx_EnableWakeUp <= USED 0
+__asm___22_stm32h7xx_hal_i2c_ex_c_a642fad8____REV16 <= USED 0
+__asm___22_stm32h7xx_hal_i2c_ex_c_a642fad8____REVSH <= USED 0
+__asm___22_stm32h7xx_hal_i2c_ex_c_a642fad8____RRX <= USED 0
+;FILE stm32h7xx_hal_mdma.o
+HAL_MDMA_Abort <= USED 0
+HAL_MDMA_Abort_IT <= USED 0
+HAL_MDMA_ConfigPostRequestMask <= USED 0
+HAL_MDMA_DeInit <= USED 0
+HAL_MDMA_GenerateSWRequest <= USED 0
+HAL_MDMA_GetError <= USED 0
+HAL_MDMA_GetState <= USED 0
+HAL_MDMA_IRQHandler <= USED 0
+HAL_MDMA_Init <= USED 0
+HAL_MDMA_LinkedList_AddNode <= USED 0
+HAL_MDMA_LinkedList_CreateNode <= USED 0
+HAL_MDMA_LinkedList_DisableCircularMode <= USED 0
+HAL_MDMA_LinkedList_EnableCircularMode <= USED 0
+HAL_MDMA_LinkedList_RemoveNode <= USED 0
+HAL_MDMA_PollForTransfer <= USED 0
+HAL_MDMA_RegisterCallback <= USED 0
+HAL_MDMA_Start <= USED 0
+HAL_MDMA_Start_IT <= USED 0
+HAL_MDMA_UnRegisterCallback <= USED 0
+__asm___20_stm32h7xx_hal_mdma_c_49e2804d____REV16 <= USED 0
+__asm___20_stm32h7xx_hal_mdma_c_49e2804d____REVSH <= USED 0
+__asm___20_stm32h7xx_hal_mdma_c_49e2804d____RRX <= USED 0
+;FILE stm32h7xx_hal_msp.o
+__asm___19_stm32h7xx_hal_msp_c_d46e2bee____REV16 <= USED 0
+__asm___19_stm32h7xx_hal_msp_c_d46e2bee____REVSH <= USED 0
+__asm___19_stm32h7xx_hal_msp_c_d46e2bee____RRX <= USED 0
+;FILE stm32h7xx_hal_pwr.o
+HAL_PWR_ConfigPVD <= USED 0
+HAL_PWR_DeInit <= USED 0
+HAL_PWR_DisableBkUpAccess <= USED 0
+HAL_PWR_DisablePVD <= USED 0
+HAL_PWR_DisableSEVOnPend <= USED 0
+HAL_PWR_DisableSleepOnExit <= USED 0
+HAL_PWR_DisableWakeUpPin <= USED 0
+HAL_PWR_EnableBkUpAccess <= USED 0
+HAL_PWR_EnablePVD <= USED 0
+HAL_PWR_EnableSEVOnPend <= USED 0
+HAL_PWR_EnableSleepOnExit <= USED 0
+HAL_PWR_EnableWakeUpPin <= USED 0
+HAL_PWR_EnterSLEEPMode <= USED 0
+HAL_PWR_EnterSTANDBYMode <= USED 0
+HAL_PWR_EnterSTOPMode <= USED 0
+HAL_PWR_PVDCallback <= USED 0
+HAL_PWR_PVD_IRQHandler <= USED 0
+__asm___19_stm32h7xx_hal_pwr_c_f2cfe8be____REV16 <= USED 0
+__asm___19_stm32h7xx_hal_pwr_c_f2cfe8be____REVSH <= USED 0
+__asm___19_stm32h7xx_hal_pwr_c_f2cfe8be____RRX <= USED 0
+;FILE stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_AVDCallback <= USED 0
+HAL_PWREx_ClearPendingEvent <= USED 0
+HAL_PWREx_ClearWakeupFlag <= USED 0
+HAL_PWREx_ConfigAVD <= USED 0
+HAL_PWREx_ConfigD3Domain <= USED 0
+HAL_PWREx_ControlStopModeVoltageScaling <= USED 0
+HAL_PWREx_ControlVoltageScaling <= USED 0
+HAL_PWREx_DisableAVD <= USED 0
+HAL_PWREx_DisableBatteryCharging <= USED 0
+HAL_PWREx_DisableBkUpReg <= USED 0
+HAL_PWREx_DisableFlashPowerDown <= USED 0
+HAL_PWREx_DisableMonitoring <= USED 0
+HAL_PWREx_DisableUSBReg <= USED 0
+HAL_PWREx_DisableUSBVoltageDetector <= USED 0
+HAL_PWREx_DisableWakeUpPin <= USED 0
+HAL_PWREx_EnableAVD <= USED 0
+HAL_PWREx_EnableBatteryCharging <= USED 0
+HAL_PWREx_EnableBkUpReg <= USED 0
+HAL_PWREx_EnableFlashPowerDown <= USED 0
+HAL_PWREx_EnableMonitoring <= USED 0
+HAL_PWREx_EnableUSBReg <= USED 0
+HAL_PWREx_EnableUSBVoltageDetector <= USED 0
+HAL_PWREx_EnableWakeUpPin <= USED 0
+HAL_PWREx_EnterSTANDBYMode <= USED 0
+HAL_PWREx_EnterSTOPMode <= USED 0
+HAL_PWREx_GetStopModeVoltageRange <= USED 0
+HAL_PWREx_GetSupplyConfig <= USED 0
+HAL_PWREx_GetTemperatureLevel <= USED 0
+HAL_PWREx_GetVBATLevel <= USED 0
+HAL_PWREx_GetVoltageRange <= USED 0
+HAL_PWREx_GetWakeupFlag <= USED 0
+HAL_PWREx_PVD_AVD_IRQHandler <= USED 0
+HAL_PWREx_WAKEUP_PIN_IRQHandler <= USED 0
+HAL_PWREx_WKUP1_Callback <= USED 0
+HAL_PWREx_WKUP2_Callback <= USED 0
+HAL_PWREx_WKUP3_Callback <= USED 0
+HAL_PWREx_WKUP4_Callback <= USED 0
+HAL_PWREx_WKUP5_Callback <= USED 0
+HAL_PWREx_WKUP6_Callback <= USED 0
+__asm___22_stm32h7xx_hal_pwr_ex_c_75a25fd4____REV16 <= USED 0
+__asm___22_stm32h7xx_hal_pwr_ex_c_75a25fd4____REVSH <= USED 0
+__asm___22_stm32h7xx_hal_pwr_ex_c_75a25fd4____RRX <= USED 0
+;FILE stm32h7xx_hal_rcc.o
+HAL_RCC_CSSCallback <= USED 0
+HAL_RCC_DeInit <= USED 0
+HAL_RCC_DisableCSS <= USED 0
+HAL_RCC_EnableCSS <= USED 0
+HAL_RCC_GetClockConfig <= USED 0
+HAL_RCC_GetOscConfig <= USED 0
+HAL_RCC_MCOConfig <= USED 0
+HAL_RCC_NMI_IRQHandler <= USED 0
+__asm___19_stm32h7xx_hal_rcc_c_b7071a4b____REV16 <= USED 0
+__asm___19_stm32h7xx_hal_rcc_c_b7071a4b____REVSH <= USED 0
+__asm___19_stm32h7xx_hal_rcc_c_b7071a4b____RRX <= USED 0
+;FILE stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_CRSConfig <= USED 0
+HAL_RCCEx_CRSGetSynchronizationInfo <= USED 0
+HAL_RCCEx_CRSSoftwareSynchronizationGenerate <= USED 0
+HAL_RCCEx_CRSWaitSynchronization <= USED 0
+HAL_RCCEx_CRS_ErrorCallback <= USED 0
+HAL_RCCEx_CRS_ExpectedSyncCallback <= USED 0
+HAL_RCCEx_CRS_IRQHandler <= USED 0
+HAL_RCCEx_CRS_SyncOkCallback <= USED 0
+HAL_RCCEx_CRS_SyncWarnCallback <= USED 0
+HAL_RCCEx_DisableLSECSS <= USED 0
+HAL_RCCEx_EnableLSECSS <= USED 0
+HAL_RCCEx_EnableLSECSS_IT <= USED 0
+HAL_RCCEx_GetD1PCLK1Freq <= USED 0
+HAL_RCCEx_GetD1SysClockFreq <= USED 0
+HAL_RCCEx_GetPLL1ClockFreq <= USED 0
+HAL_RCCEx_GetPeriphCLKConfig <= USED 0
+HAL_RCCEx_GetPeriphCLKFreq <= USED 0
+HAL_RCCEx_KerWakeUpStopCLKConfig <= USED 0
+HAL_RCCEx_LSECSS_Callback <= USED 0
+HAL_RCCEx_LSECSS_IRQHandler <= USED 0
+HAL_RCCEx_WWDGxSysResetConfig <= USED 0
+HAL_RCCEx_WakeUpStopCLKConfig <= USED 0
+__asm___22_stm32h7xx_hal_rcc_ex_c_bed13b44____REV16 <= USED 0
+__asm___22_stm32h7xx_hal_rcc_ex_c_bed13b44____REVSH <= USED 0
+__asm___22_stm32h7xx_hal_rcc_ex_c_bed13b44____RRX <= USED 0
+;FILE stm32h7xx_hal_spi.o
+HAL_SPI_Abort <= USED 0
+HAL_SPI_AbortCpltCallback <= USED 0
+HAL_SPI_Abort_IT <= USED 0
+HAL_SPI_DMAPause <= USED 0
+HAL_SPI_DMAResume <= USED 0
+HAL_SPI_DMAStop <= USED 0
+HAL_SPI_DeInit <= USED 0
+HAL_SPI_GetError <= USED 0
+HAL_SPI_GetState <= USED 0
+HAL_SPI_Receive <= USED 0
+HAL_SPI_Receive_DMA <= USED 0
+HAL_SPI_Receive_IT <= USED 0
+HAL_SPI_RxHalfCpltCallback <= USED 0
+HAL_SPI_Transmit <= USED 0
+HAL_SPI_TransmitReceive <= USED 0
+HAL_SPI_TransmitReceive_DMA <= USED 0
+HAL_SPI_TransmitReceive_IT <= USED 0
+HAL_SPI_Transmit_IT <= USED 0
+HAL_SPI_TxRxHalfCpltCallback <= USED 0
+__asm___19_stm32h7xx_hal_spi_c_5e7b22bd____REV16 <= USED 0
+__asm___19_stm32h7xx_hal_spi_c_5e7b22bd____REVSH <= USED 0
+__asm___19_stm32h7xx_hal_spi_c_5e7b22bd____RRX <= USED 0
+;FILE stm32h7xx_hal_spi_ex.o
+HAL_SPIEx_ConfigureUnderrun <= USED 0
+HAL_SPIEx_EnableLockConfiguration <= USED 0
+HAL_SPIEx_FlushRxFifo <= USED 0
+__asm___22_stm32h7xx_hal_spi_ex_c_43e4fe1d____REV16 <= USED 0
+__asm___22_stm32h7xx_hal_spi_ex_c_43e4fe1d____REVSH <= USED 0
+__asm___22_stm32h7xx_hal_spi_ex_c_43e4fe1d____RRX <= USED 0
+;FILE stm32h7xx_hal_tim.o
+__asm___19_stm32h7xx_hal_tim_c____REV16 <= USED 0
+__asm___19_stm32h7xx_hal_tim_c____REVSH <= USED 0
+__asm___19_stm32h7xx_hal_tim_c____RRX <= USED 0
+;FILE stm32h7xx_hal_tim_ex.o
+__asm___22_stm32h7xx_hal_tim_ex_c____REV16 <= USED 0
+__asm___22_stm32h7xx_hal_tim_ex_c____REVSH <= USED 0
+__asm___22_stm32h7xx_hal_tim_ex_c____RRX <= USED 0
+;FILE stm32h7xx_hal_uart.o
+HAL_HalfDuplex_EnableReceiver <= USED 0
+HAL_HalfDuplex_EnableTransmitter <= USED 0
+HAL_HalfDuplex_Init <= USED 0
+HAL_LIN_Init <= USED 0
+HAL_LIN_SendBreak <= USED 0
+HAL_MultiProcessor_DisableMuteMode <= USED 0
+HAL_MultiProcessor_EnableMuteMode <= USED 0
+HAL_MultiProcessor_EnterMuteMode <= USED 0
+HAL_MultiProcessor_Init <= USED 0
+HAL_UARTEx_RxEventCallback <= USED 0
+HAL_UART_Abort <= USED 0
+HAL_UART_AbortCpltCallback <= USED 0
+HAL_UART_AbortReceive <= USED 0
+HAL_UART_AbortReceiveCpltCallback <= USED 0
+HAL_UART_AbortReceive_IT <= USED 0
+HAL_UART_AbortTransmit <= USED 0
+HAL_UART_AbortTransmitCpltCallback <= USED 0
+HAL_UART_AbortTransmit_IT <= USED 0
+HAL_UART_Abort_IT <= USED 0
+HAL_UART_DMAPause <= USED 0
+HAL_UART_DMAResume <= USED 0
+HAL_UART_DMAStop <= USED 0
+HAL_UART_DeInit <= USED 0
+HAL_UART_DisableReceiverTimeout <= USED 0
+HAL_UART_EnableReceiverTimeout <= USED 0
+HAL_UART_ErrorCallback <= USED 0
+HAL_UART_GetError <= USED 0
+HAL_UART_GetState <= USED 0
+HAL_UART_IRQHandler <= USED 0
+HAL_UART_Receive <= USED 0
+HAL_UART_Receive_DMA <= USED 0
+HAL_UART_Receive_IT <= USED 0
+HAL_UART_ReceiverTimeout_Config <= USED 0
+HAL_UART_RxCpltCallback <= USED 0
+HAL_UART_RxHalfCpltCallback <= USED 0
+HAL_UART_Transmit_DMA <= USED 0
+HAL_UART_Transmit_IT <= USED 0
+HAL_UART_TxCpltCallback <= USED 0
+HAL_UART_TxHalfCpltCallback <= USED 0
+UART_Start_Receive_DMA <= USED 0
+UART_Start_Receive_IT <= USED 0
+__asm___20_stm32h7xx_hal_uart_c_574fddf5____REV16 <= USED 0
+__asm___20_stm32h7xx_hal_uart_c_574fddf5____REVSH <= USED 0
+__asm___20_stm32h7xx_hal_uart_c_574fddf5____RRX <= USED 0
+;FILE stm32h7xx_hal_uart_ex.o
+HAL_MultiProcessorEx_AddressLength_Set <= USED 0
+HAL_RS485Ex_Init <= USED 0
+HAL_UARTEx_DisableStopMode <= USED 0
+HAL_UARTEx_EnableFifoMode <= USED 0
+HAL_UARTEx_EnableStopMode <= USED 0
+HAL_UARTEx_GetRxEventType <= USED 0
+HAL_UARTEx_ReceiveToIdle <= USED 0
+HAL_UARTEx_ReceiveToIdle_DMA <= USED 0
+HAL_UARTEx_ReceiveToIdle_IT <= USED 0
+HAL_UARTEx_RxFifoFullCallback <= USED 0
+HAL_UARTEx_StopModeWakeUpSourceConfig <= USED 0
+HAL_UARTEx_TxFifoEmptyCallback <= USED 0
+HAL_UARTEx_WakeupCallback <= USED 0
+__asm___23_stm32h7xx_hal_uart_ex_c_83a37df4____REV16 <= USED 0
+__asm___23_stm32h7xx_hal_uart_ex_c_83a37df4____REVSH <= USED 0
+__asm___23_stm32h7xx_hal_uart_ex_c_83a37df4____RRX <= USED 0
+;FILE stm32h7xx_it.o
+__asm___14_stm32h7xx_it_c_bb8ca80c____REV16 <= USED 0
+__asm___14_stm32h7xx_it_c_bb8ca80c____REVSH <= USED 0
+__asm___14_stm32h7xx_it_c_bb8ca80c____RRX <= USED 0
+;FILE system_stm32h7xx.o
+SystemCoreClockUpdate <= USED 0
+__asm___18_system_stm32h7xx_c_5d646a67____REV16 <= USED 0
+__asm___18_system_stm32h7xx_c_5d646a67____REVSH <= USED 0
+__asm___18_system_stm32h7xx_c_5d646a67____RRX <= USED 0
+;FILE usart.o
+HAL_UART_MspDeInit <= USED 0
+__asm___7_usart_c_aa2567c7____REV16 <= USED 0
+__asm___7_usart_c_aa2567c7____REVSH <= USED 0
+__asm___7_usart_c_aa2567c7____RRX <= USED 0

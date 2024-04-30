@@ -1,0 +1,6 @@
+--c99 --gnu -c --cpu Cortex-M7.fp.dp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32H7xx_HAL_Driver/Inc -I ../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32H7xx/Include -I ../Drivers/CMSIS/Include -I ../user -I ../lvgl/src -I ../lvgl -I ../lvgl/examples/porting -I ../UI
+-I.\RTE\_h750
+-IC:\Users\zyc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include
+-IC:\Users\zyc\AppData\Local\Arm\Packs\Keil\STM32H7xx_DFP\3.1.0\Drivers\CMSIS\Device\ST\STM32H7xx\Include
+-D__UVISION_VERSION="535" -D_RTE_ -DSTM32H750xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32H750xx
+-o h750\lv_win.o --omf_browse h750\lv_win.crf --depend h750\lv_win.d --feedback "h750\h750.fed" "..\lvgl\src\extra\widgets\win\lv_win.c"

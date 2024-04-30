@@ -1,0 +1,17 @@
+h750\lv_font.o: ..\lvgl\src\font\lv_font.c
+h750\lv_font.o: ..\lvgl\src\font\lv_font.h
+h750\lv_font.o: ..\lvgl\src\font\../lv_conf_internal.h
+h750\lv_font.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+h750\lv_font.o: ..\lvgl\src\font\../lv_conf_kconfig.h
+h750\lv_font.o: ../lvgl/examples/porting/../../lv_conf.h
+h750\lv_font.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+h750\lv_font.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+h750\lv_font.o: ..\lvgl\src\font\lv_symbol_def.h
+h750\lv_font.o: ..\lvgl\src\font\../misc/lv_area.h
+h750\lv_font.o: ..\lvgl\src\font\../misc/lv_utils.h
+h750\lv_font.o: ..\lvgl\src\font\../misc/lv_log.h
+h750\lv_font.o: ..\lvgl\src\font\../misc/lv_types.h
+h750\lv_font.o: ..\lvgl\src\font\../misc/lv_assert.h
+h750\lv_font.o: ..\lvgl\src\font\../misc/lv_mem.h
+h750\lv_font.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+h750\lv_font.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

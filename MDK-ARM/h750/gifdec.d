@@ -1,0 +1,17 @@
+h750\gifdec.o: ..\lvgl\src\extra\libs\gif\gifdec.c
+h750\gifdec.o: ..\lvgl\src\extra\libs\gif\gifdec.h
+h750\gifdec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+h750\gifdec.o: ..\lvgl\src\extra\libs\gif\../../../misc/lv_fs.h
+h750\gifdec.o: ..\lvgl\src\extra\libs\gif\../../../misc/../lv_conf_internal.h
+h750\gifdec.o: ..\lvgl\src\extra\libs\gif\../../../misc/../lv_conf_kconfig.h
+h750\gifdec.o: ../lvgl/examples/porting/../../lv_conf.h
+h750\gifdec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+h750\gifdec.o: ..\lvgl\src\extra\libs\gif\../../../misc/lv_log.h
+h750\gifdec.o: ..\lvgl\src\extra\libs\gif\../../../misc/lv_types.h
+h750\gifdec.o: ..\lvgl\src\extra\libs\gif\../../../misc/lv_mem.h
+h750\gifdec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+h750\gifdec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+h750\gifdec.o: ..\lvgl\src\extra\libs\gif\../../../misc/lv_color.h
+h750\gifdec.o: ..\lvgl\src\extra\libs\gif\../../../misc/lv_assert.h
+h750\gifdec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+h750\gifdec.o: ..\lvgl\src\extra\libs\gif\../../../misc/lv_math.h
